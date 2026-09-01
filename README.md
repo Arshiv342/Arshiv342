@@ -29,7 +29,6 @@ I have knowledge of Java, DSA, and Frontend Development. I enjoy building projec
 </p>
 
 ## 🔥 Streak Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshiv342&theme=default" alt="Arshiv342 streak" height="165" />
 </p>
